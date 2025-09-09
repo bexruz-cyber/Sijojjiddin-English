@@ -97,7 +97,7 @@ function handleSubmit(e) {
   localStorage.setItem('registrationData', JSON.stringify(formData));
 
   // Redirect to subscribe.html
-  window.location.href = "/subscribe.html";
+  window.location.href = "/b/subscribe.html";
 }
 
 function showSubscribePage() {
